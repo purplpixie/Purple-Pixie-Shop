@@ -1,0 +1,82 @@
+header{
+    color: white;
+    background-color: rgb(227, 134, 245);
+    padding:20px;
+    
+}
+#lo{
+    font-family: 'Borel', cursive;
+    font-size: 30px;
+    color: rgb(95, 56, 103);
+    margin-right: 550px;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    
+}
+button{
+    all: unset;
+    display: block;
+    margin-left: auto;
+    border: 2px solid #330044;
+    padding: 10px 15px;
+    border-radius: 25px;
+    font-weight: 600;
+    transition: all 0.5;
+    cursor: pointer;
+    letter-spacing: 1.2px;
+    text-align: center;
+}
+button:hover{
+    background-color: #e49efb;
+}
+nav{
+    text-align: center;
+
+}
+#lol{
+    width: 100%;
+    height: 600px;
+}
+#asap{
+    font-family: 'Borel', cursive;
+    font-size: 40px;
+    padding:1px;
+    color: rgb(243, 184, 255);
+}
+#align{
+    text-align:center;
+}
+#i1{
+    border:2px solid rgb(95, 56, 103);
+}
+#align>div{
+    float: left;
+}
+#product{
+    margin:8px;
+    all: unset;
+    display: block;
+    margin-left: auto;
+    border: 2px solid #330044;
+    padding: 10px 10px;
+    border-radius: 25px;
+    font-weight: 600;
+    transition: all 0.5;
+    cursor: pointer;
+    letter-spacing: 1.2px;
+    transition: transform .2s;
+}
+#product:hover{
+    transform: scale(1.2);
+}
+#but{
+    text-align: center;
+    padding-top:15px;
+}
+footer{
+    background-color: rgb(95, 56, 103);
+    color: white;
+    margin-top:390px;
+}
